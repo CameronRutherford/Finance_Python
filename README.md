@@ -7,7 +7,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the mod
 
 ```bash
 pip install matplotlib
-pip install numpy
 pip install pandas
 pip install pandas_datareader
 pip install beautifulsoup4
